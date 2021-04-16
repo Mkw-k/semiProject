@@ -1,5 +1,6 @@
 # semiProject
-프로젝트 최종 결과물<br><br>
+프로젝트 최종 결과물<br>
+프로젝트명 : 견생역전<br><br>
 
 <pre>
 담당내역 :  BBS 파트 Back-end 구축 (BBSController, BBSDao 등)  - 우리멍냥이는요 사진게시판 Part<br>
