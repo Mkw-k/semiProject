@@ -1,5 +1,4 @@
-# semiProject
-프로젝트 최종 결과물<br>
+# semiProject - 프로젝트 최종 결과물
 프로젝트명 : 견생역전<br><br>
 
 <pre>
